@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <h1> Father's Day </h1>
 <head>
@@ -8,6 +7,4 @@ Father's day brings with it a mixed bag of emotions. Some father's have been abs
 body{colour:blue;
 font-size:20px
 width:200px;}                                                                                                   
-                                                                                             
-
-<br>
+                                                                                            
